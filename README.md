@@ -2,15 +2,13 @@
 
 **关于仓库**
 
-本仓库是笔者在学习过程中的知识总结，内容以Java后端的知识总结为主，其中大部分都是笔者根据自己的理解加上个人博客总结而来的。
-
-实验室老板那还有好多事情要做，哈哈哈哈！！！！精力有限。整理内容若有不妥，还请见谅。
+本仓库是笔者在学习过程中的知识总结，内容以Java后端的知识总结为主。
 
 【个人博客】http://blog.jiekk.top
 
 | Ⅰ | Ⅱ | Ⅲ | Ⅳ | Ⅴ | Ⅵ | Ⅶ | Ⅷ | Ⅸ |
 | :------: | :---------: | :-------: | :---------: | :---: | :---------:| :---------: | :---------: | :---------:|
-| 算法[:pencil2:](#算法-pencil2) | 操作系统[:computer:](#操作系统-computer)|网络[:cloud:](#网络-cloud) | 数据库[:floppy_disk:](#数据库-floppy_disk)| Java[:couple:](#Java-couple) |JavaWeb [:coffee:](#JavaWeb-coffee)| 分布式 [:sweat_drops:](#分布式-sweat_drops)| 设计模式[:hammer:](#设计模式-hammer)| Hadoop[:speak_no_evil:](#Hadoop-speak_no_evil)|
+| 算法[:pencil2:](#算法-pencil2) | 操作系统[:computer:](#操作系统-computer)|网络[:cloud:](#网络-cloud) | 数据库[:floppy_disk:](#数据库-floppy_disk)| Java[:couple:](#Java-couple) |JavaWeb [:coffee:](#JavaWeb-coffee)| 分布式 [:sweat_drops:](#分布式-sweat_drops)| 设计模式[:hammer:](#设计模式-hammer)|
 
 ## 算法 :pencil2:
 
@@ -59,19 +57,12 @@
 > [分布式技术学习总结](https://github.com/oyjcodes/Java-Learn/blob/master/md/%E5%88%86%E5%B8%83%E5%BC%8F%E6%8A%80%E6%9C%AF%E5%AE%9E%E8%B7%B5%E6%80%BB%E7%BB%93.md)
 
 ## 设计模式 :hammer:
-> [设计模式学习总结](https://github.com/oyjcodes/Java-Learn/blob/master/md/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E5%AD%A6%E4%B9%A0%E6%80%BB%E7%BB%93.md) 
-
-## Hadoop :speak_no_evil:
-
-> [Hadoop生态学习总结](https://github.com/oyjcodes/Java-Learn/blob/master/md/Hadoop%E7%94%9F%E6%80%81%E6%80%BB%E7%BB%93.md) 
-
+> [设计模式学习总结](https://github.com/oyjcodes/Java-Learn/blob/master/md/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E5%AD%A6%E4%B9%A0%E6%80%BB%E7%BB%93.md)
 </br>
 
 《**转载说明**》
 
-1. 我这个仓库的格式模仿的是@CyC2018大佬的仓库
-   
-2. 作为一名苦逼学生党的我，只是站在大佬的肩膀上，向他们学习而已。
+向优秀的大佬们致敬
    
 
 
