@@ -1,12 +1,3 @@
----
-title: Mysql原理与实践总结
-date: 2018-07-08 22:15:04
-tags:
-	- Mysql
-categories:
-	- 后端
-	- 技术总结
----
 # 数据库（MySQL）
 
 本文根据自己对MySQL的学习和实践以及各类文章与书籍总结而来。

@@ -1,12 +1,4 @@
----
-title: Java集合框架学习总结
-date: 2018-07-08 22:03:44
-tags:
-	- Java集合
-categories:
-	- 后端
-	- 技术总结
----
+
 # Java集合框架学习总结
 
 

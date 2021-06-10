@@ -60,9 +60,9 @@
 > [设计模式学习总结](https://github.com/oyjcodes/Java-Learn/blob/master/md/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E5%AD%A6%E4%B9%A0%E6%80%BB%E7%BB%93.md)
 </br>
 
-《**转载说明**》
+《**未完待续**》 
 
-向优秀的大佬们致敬
+越过高山，飞过丛林，我们都是勇敢的少年
    
 
 

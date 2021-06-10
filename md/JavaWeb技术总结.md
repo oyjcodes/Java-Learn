@@ -1,12 +1,4 @@
----
-title: JavaWeb技术总结
-date: 2018-07-08 22:13:33
-tags:
-	- JavaWeb
-categories:
-	- 后端
-	- 技术总结
----
+
 # Java Web技术技术总结
 
 
